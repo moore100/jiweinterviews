@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/jiweinterviews/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/jiweinterviews/static/js/main.7adfa1e7.chunk.js",
+    "main.js.map": "/jiweinterviews/static/js/main.7adfa1e7.chunk.js.map",
+    "runtime-main.js": "/jiweinterviews/static/js/runtime-main.6408d140.js",
+    "runtime-main.js.map": "/jiweinterviews/static/js/runtime-main.6408d140.js.map",
+    "static/css/2.244edf37.chunk.css": "/jiweinterviews/static/css/2.244edf37.chunk.css",
+    "static/js/2.1ccd9b18.chunk.js": "/jiweinterviews/static/js/2.1ccd9b18.chunk.js",
+    "static/js/2.1ccd9b18.chunk.js.map": "/jiweinterviews/static/js/2.1ccd9b18.chunk.js.map",
+    "static/js/3.d617321f.chunk.js": "/jiweinterviews/static/js/3.d617321f.chunk.js",
+    "static/js/3.d617321f.chunk.js.map": "/jiweinterviews/static/js/3.d617321f.chunk.js.map",
+    "index.html": "/jiweinterviews/index.html",
+    "static/css/2.244edf37.chunk.css.map": "/jiweinterviews/static/css/2.244edf37.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/jiweinterviews/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.1ccd9b18.chunk.js.LICENSE.txt": "/jiweinterviews/static/js/2.1ccd9b18.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6408d140.js",
+    "static/css/2.244edf37.chunk.css",
+    "static/js/2.1ccd9b18.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.7adfa1e7.chunk.js"
+  ]
+}
